@@ -823,8 +823,16 @@
       <option name="presentableId" value="Default" />
       <updated>1476036288353</updated>
       <workItem from="1491760230203" duration="3079000" />
-      <workItem from="1491803878150" duration="1755000" />
+      <workItem from="1491803878150" duration="1771000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1491852676221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491852676221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -860,7 +868,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4834000" />
+    <option name="totallyTimeSpent" value="4850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="743" extended-state="0" />
@@ -911,7 +919,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
